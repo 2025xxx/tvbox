@@ -79,7 +79,8 @@
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"高中教育","name":"高中┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/高中教育.json","jar":"https://codeberg.org/yuan301/tv/src/branch/main/jar/mao1122.jar"},
+
+    
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/lib/drpy2.min.js","ext":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/lib/drpy2.min.js","ext":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/js/奇珍异兽.js"},
 {"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/lib/drpy2.min.js","ext":"https://codeberg.org/zlw8504/rexian99-qist/src/branch/master/js/百忙无果.js"},
