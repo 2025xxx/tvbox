@@ -288,11 +288,35 @@
 	},
 	{
 		"id": "3",
-		"text": "广东频道",
+		"text": "安徽频道",
 		"children": [
 			{
-				"text": "广东卫视",
-				"url": "https://www.gdtv.cn/tvChannelDetail/43"
+				"text": "经济生活",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=1"
+			},
+			{
+				"text": "综艺体育",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=2"
+			},
+			{
+				"text": "影视频道",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=3"
+			},
+			{
+				"text": "安徽公共",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=4"
+			},
+			{
+				"text": "农业科教",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=5"
+			},
+			{
+				"text": "安徽国际",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=6"
+			},
+			{
+				"text": "移动电视",
+				"url": "https://www.ahtv.cn/folder9000/folder20193?channelIndex=7"
 			}
 		]
 	},
