@@ -301,8 +301,12 @@
 		"text": "地方频道",
 		"children": [
 			{
-				"text": "深圳都市频道",
-				"url": "https://www.sztv.com.cn/dianshi.shtml?id=7868"
+				"text": "亳州新闻",
+				"url": "http://www.ahbztv.com/televisi0n.html"
+			},
+			{
+				"text": "亳州农村",
+				"url": "http://www.ahbztv.com/televisi0n.html"
 			}
 		]
 	},
