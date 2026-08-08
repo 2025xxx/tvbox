@@ -163,8 +163,10 @@
 			},
 			{
 				"text": "东方卫视",
-				"url": "https://www.yangshipin.cn/tv/home?pid=600002483",
-				"url": "https://m.miguvideo.com/m/liveDetail/651632648?channelId=10010001005"
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600002483",
+				    "https://m.miguvideo.com/m/liveDetail/651632648?channelId=10010001005"
+					]
 			},
 			{
 				"text": "浙江卫视",
